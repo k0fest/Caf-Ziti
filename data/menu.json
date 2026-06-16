@@ -1,0 +1,118 @@
+{
+    "categories": [
+        {
+            "id": "breakfasts",
+            "name": "Завтраки"
+        },
+        {
+            "id": "hot",
+            "name": "Горячие блюда"
+        },
+        {
+            "id": "pasta",
+            "name": "Паста"
+        },
+        {
+            "id": "salads",
+            "name": "Салаты"
+        },
+        {
+            "id": "desserts",
+            "name": "Десерты"
+        },
+        {
+            "id": "drinks",
+            "name": "Напитки"
+        }
+    ],
+    "dishes": [
+        {
+            "name": "Овсяная каша с ягодами",
+            "description": "Нежная овсянка на сливках с ягодами и мёдом",
+            "weight": "250 г",
+            "price": 320,
+            "category": "breakfasts",
+            "image": "../images/kasha.JPG"
+        },
+        {
+            "name": "Сырники",
+            "description": "Домашние сырники со сметаной и вареньем",
+            "weight": "200 г",
+            "price": 350,
+            "category": "breakfasts",
+            "image": "../images/sirniky.webp"
+        },
+        {
+            "name": "Говяжья щёчка",
+            "description": "Тушёная говяжья щёчка с овощным рагу",
+            "weight": "320 г",
+            "price": 650,
+            "category": "hot",
+            "image": "../images/gov_sheka.jpg"
+        },
+        {
+            "name": "Паста Зити",
+            "description": "Паста запеченная с моцареллой в томатном соусе",
+            "weight": "350 г",
+            "price": 250,
+            "category": "pasta",
+            "image": "../images/photo1.webp"
+        },
+        {
+            "name": "Паста Карбонара",
+            "description": "Спагетти с гуанчиале, яйцом, пекорино",
+            "weight": "300 г",
+            "price": 490,
+            "category": "pasta",
+            "image": "../images/photo3.webp"
+        },
+        {
+            "name": "Цезарь с курицей",
+            "description": "Классический салат с курицей, пармезаном",
+            "weight": "280 г",
+            "price": 420,
+            "category": "salads",
+            "image": "../images/chezar.webp"
+        },
+        {
+            "name": "Тирамису",
+            "description": "Итальянский десерт из маскарпоне и кофе",
+            "weight": "150 г",
+            "price": 290,
+            "category": "desserts",
+            "image": "../images/tiramisu.jpg"
+        },
+        {
+            "name": "Американо",
+            "description": "Вкуснейший американо за пределами Америки",
+            "weight": "150 мл",
+            "price": 120,
+            "category": "drinks",
+            "image": "../images/americano.jpg"
+        },
+        {
+            "name": "Капучино",
+            "description": "Нежный кофе с молочной пеной",
+            "weight": "200 мл",
+            "price": 180,
+            "category": "drinks",
+            "image": "../images/capuchino.jpg"
+        },
+        {
+            "name": "Латте",
+            "description": "Нежный кофе с молочной пеной",
+            "weight": "200 мл",
+            "price": 180,
+            "category": "drinks",
+            "image": "../images/latte-art.jpg"
+        },
+        {
+            "name": "Эспрессо",
+            "description": "Нежный кофе с молочной пеной",
+            "weight": "200. мл",
+            "price": 90,
+            "category": "drinks",
+            "image": "../images/esspreso.png"
+        }
+    ]
+}
