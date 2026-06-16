@@ -109,7 +109,7 @@
         {
             "name": "Эспрессо",
             "description": "Нежный кофе с молочной пеной",
-            "weight": "200. мл",
+            "weight": "200 мл",
             "price": 90,
             "category": "drinks",
             "image": "images/esspreso.png"
